@@ -19,3 +19,6 @@ A few assumptions and caveats to this model:
 The notebook consists of a walkthrough / **EDA** of the Volve production dataset and then exploring tree-based algorithms starting from the simplest **Decision Tree**, followed by **Random Forest** and then finally **XGBoost**.
 
 In the XGBoost section, I also explored **Hyperparameter Grid Search** to search the optimal values to tune the XGBoost model. Finally, I performed **Feature Selection** using the feature importance tool in the XGBoost model before finalizing it.
+
+## Dataset Used
+The production data used here is a subset of the Volve field data which was released by Equinor. To find out more information on this subset (and other data), [click here](https://www.equinor.com/en/what-we-do/norwegian-continental-shelf-platforms/volve.html).
