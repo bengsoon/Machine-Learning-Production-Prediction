@@ -1,4 +1,4 @@
-# Machine Learning Production Forecast
+# Machine Learning Production Prediction
 
 The idea to this repository is to create a "virtual meter" that acts as a second opinion to the measurements obtained from either Multiphase Flow Meter (MPFM) or periodic welltest operations (through test separators) by taking account into the totality of each well parameters on the platform.
 
